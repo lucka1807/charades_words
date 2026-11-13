@@ -1,0 +1,1802 @@
+[
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 3,
+    "czech" : "jabko",
+    "english" : "apple",
+    "german" : "der Apfel",
+    "slovak" : "jablko"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 3,
+    "czech" : "židle",
+    "english" : "chair",
+    "german" : "der Stuhl",
+    "slovak" : "stolička"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 3,
+    "czech" : "pes",
+    "english" : "dog",
+    "german" : "der Hund",
+    "slovak" : "pres"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 3,
+    "czech" : "auto",
+    "english" : "car",
+    "german" : "das Auto",
+    "slovak" : "auto"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 3,
+    "czech" : "slunce",
+    "english" : "sun",
+    "german" : "die Sonne",
+    "slovak" : "slnko"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 3,
+    "czech" : "zubní kartáček",
+    "english" : "toothbrush",
+    "german" : "die Zahnbürste",
+    "slovak" : "zubná kefka"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 3,
+    "czech" : "banán",
+    "english" : "banana",
+    "german" : "die Banane",
+    "slovak" : "banán"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 3,
+    "czech" : "dům",
+    "english" : "house",
+    "german" : "das Haus",
+    "slovak" : "dom"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 3,
+    "czech" : "klíč",
+    "english" : "key",
+    "german" : "das Schlüssel",
+    "slovak" : "kľúč"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 3,
+    "czech" : "bríle",
+    "english" : "glasses",
+    "german" : "die Brille",
+    "slovak" : "okuliare"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 3,
+    "czech" : "kolo",
+    "english" : "bicycle",
+    "german" : "das Fahrrad",
+    "slovak" : "bicykel"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 3,
+    "czech" : "deštník",
+    "english" : "umbrella",
+    "german" : "der Regenschirm",
+    "slovak" : "dáždnik"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 3,
+    "czech" : "telefon",
+    "english" : "telephone",
+    "german" : "das Telefon",
+    "slovak" : "telefón"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 3,
+    "czech" : "kniha",
+    "english" : "book",
+    "german" : "das Buch",
+    "slovak" : "kniha"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 3,
+    "czech" : "lžíce",
+    "english" : "spoon",
+    "german" : "der Löffel",
+    "slovak" : "lyžica"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 3,
+    "czech" : "kočka",
+    "english" : "cat",
+    "german" : "die Katze",
+    "slovak" : "mačka"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 3,
+    "czech" : "míč",
+    "english" : "ball",
+    "german" : "der Ball",
+    "slovak" : "lopta"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 3,
+    "czech" : "strom",
+    "english" : "tree",
+    "german" : "der Baum",
+    "slovak" : "strom"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 3,
+    "czech" : "ryba",
+    "english" : "fish",
+    "german" : "der Fisch",
+    "slovak" : "ryba"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 3,
+    "czech" : "bota",
+    "english" : "shoe",
+    "german" : "der Schuh",
+    "slovak" : "topánka"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 3,
+    "czech" : "čepice",
+    "english" : "beanie",
+    "german" : "die Mütze",
+    "slovak" : "čiapka"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 3,
+    "czech" : "postel",
+    "english" : "bed",
+    "german" : "das Bett",
+    "slovak" : "posteľ"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 3,
+    "czech" : "okno",
+    "english" : "window",
+    "german" : "das Fenster",
+    "slovak" : "okno"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 3,
+    "czech" : "dveře",
+    "english" : "door",
+    "german" : "die Tür",
+    "slovak" : "dvere"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 3,
+    "czech" : "svíčka",
+    "english" : "candle",
+    "german" : "die Kerze",
+    "slovak" : "sviečka"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 3,
+    "czech" : "hodiny",
+    "english" : "clock",
+    "german" : "die Uhr",
+    "slovak" : "hodiny"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 3,
+    "czech" : "nůžky",
+    "english" : "scissors",
+    "german" : "die Schere",
+    "slovak" : "nožnice"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 3,
+    "czech" : "tužka",
+    "english" : "pencil",
+    "german" : "der Bleistift",
+    "slovak" : "ceruzka"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 3,
+    "czech" : "pohár",
+    "english" : "glass",
+    "german" : "das Glas",
+    "slovak" : "pohár"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 3,
+    "czech" : "talíř",
+    "english" : "plate",
+    "german" : "der Teller",
+    "slovak" : "tanier"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 3,
+    "czech" : "vidlička",
+    "english" : "fork",
+    "german" : "die Gabel",
+    "slovak" : "vidlička"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 3,
+    "czech" : "nůž",
+    "english" : "knife",
+    "german" : "das Messer",
+    "slovak" : "nôž"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 3,
+    "czech" : "hrnec",
+    "english" : "pot",
+    "german" : "der Topf",
+    "slovak" : "hrniec"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 3,
+    "czech" : "pánev",
+    "english" : "frzing pan",
+    "german" : "die Pfanne",
+    "slovak" : "panvica"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 3,
+    "czech" : "lednička",
+    "english" : "refrigerator",
+    "german" : "der Kühlschrank",
+    "slovak" : "chladnička"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 3,
+    "czech" : "pračka",
+    "english" : "washing machine",
+    "german" : "die Waschmaschine",
+    "slovak" : "práčka"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 3,
+    "czech" : "vysavač",
+    "english" : "vacuum cleaner",
+    "german" : "der Staubsauger",
+    "slovak" : "vysávač"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 3,
+    "czech" : "žehlička",
+    "english" : "iron",
+    "german" : "das Bügeleisen",
+    "slovak" : "žehlička"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 3,
+    "czech" : "zrcadlo",
+    "english" : "mirror",
+    "german" : "der Spiegel",
+    "slovak" : "zrkadlo"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 3,
+    "czech" : "hřeben",
+    "english" : "comb",
+    "german" : "der Kamm",
+    "slovak" : "hrebeň"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 3,
+    "czech" : "mýdlo",
+    "english" : "soap",
+    "german" : "die Seife",
+    "slovak" : "mydlo"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 3,
+    "czech" : "ručník",
+    "english" : "towel",
+    "german" : "das Handtuch",
+    "slovak" : "uterák"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 3,
+    "czech" : "polštář",
+    "english" : "pillow",
+    "german" : "das Kissen",
+    "slovak" : "vankúš"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 3,
+    "czech" : "peřina",
+    "english" : "duvet",
+    "german" : "die Bettdecke",
+    "slovak" : "paplón"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 3,
+    "czech" : "ponožka",
+    "english" : "sock",
+    "german" : "die Socke",
+    "slovak" : "ponožka"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 3,
+    "czech" : "kalhoty",
+    "english" : "pants",
+    "german" : "die Hose",
+    "slovak" : "nohavice"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 3,
+    "czech" : "tričko",
+    "english" : "T-shirt",
+    "german" : "das T-Shirt",
+    "slovak" : "tričko"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 3,
+    "czech" : "bunda",
+    "english" : "jacket",
+    "german" : "die Jacke",
+    "slovak" : "bunda"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 3,
+    "czech" : "rukavice",
+    "english" : "gloves",
+    "german" : "die Handschuhe",
+    "slovak" : "rukavice"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 3,
+    "czech" : "šála",
+    "english" : "scarf",
+    "german" : "der Schal",
+    "slovak" : "šál"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 4,
+    "czech" : "horské kolo",
+    "english" : "mountain bike",
+    "german" : "das Mountainbike",
+    "slovak" : "horský bicykel"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 4,
+    "czech" : "zubní kaz",
+    "english" : "tooth decay",
+    "german" : "die Karies",
+    "slovak" : "zubný kaz"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 4,
+    "czech" : "dopravní zácpa",
+    "english" : "traffic jam",
+    "german" : "der Verkehrsstau",
+    "slovak" : "dopravná zápcha"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 4,
+    "czech" : "elektrická zásuvka",
+    "english" : "socket",
+    "german" : "die Steckdose",
+    "slovak" : "elektrická zásuvka"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 4,
+    "czech" : "sněhulák",
+    "english" : "snowman",
+    "german" : "der Schneemann",
+    "slovak" : "snehuliak"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 4,
+    "czech" : "padák",
+    "english" : "parachute",
+    "german" : "der Fallschirm",
+    "slovak" : "padák"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 4,
+    "czech" : "potapěč",
+    "english" : "diver",
+    "german" : "der Taucher",
+    "slovak" : "potápač"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 4,
+    "czech" : "kosmonaut",
+    "english" : "astronaut",
+    "german" : "der Astronaut",
+    "slovak" : "kozmonaut"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 4,
+    "czech" : "hasičské auto",
+    "english" : "fire truck",
+    "german" : "das Feuerwehrauto",
+    "slovak" : "hasičské auto"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 4,
+    "czech" : "sanitka",
+    "english" : "ambulance",
+    "german" : "der Krankeenwagen",
+    "slovak" : "sanitka"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 4,
+    "czech" : "policejní siréna",
+    "english" : "police siren",
+    "german" : "die Polizeisirene",
+    "slovak" : "policajná siréna"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 4,
+    "czech" : "dětské hřiště",
+    "english" : "playground",
+    "german" : "der Spielplatz",
+    "slovak" : "detské ihrisko"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 4,
+    "czech" : "pískoviště",
+    "english" : "sandbox",
+    "german" : "der Sandkasten",
+    "slovak" : "pieskovisko"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 4,
+    "czech" : "houpačka",
+    "english" : "swing",
+    "german" : "die Schaukel",
+    "slovak" : "hojdačka"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 4,
+    "czech" : "skluzavka",
+    "english" : "slide",
+    "german" : "die Rutsche",
+    "slovak" : "šmýkačka"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 4,
+    "czech" : "kolotoč",
+    "english" : "carousel",
+    "german" : "das Karusell",
+    "slovak" : "kolotoč"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 4,
+    "czech" : "cirkusový stan",
+    "english" : "circus tent",
+    "german" : "das Zirkuszelt",
+    "slovak" : "cirkusový stan"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 4,
+    "czech" : "kouzelník",
+    "english" : "magician",
+    "german" : "der Zauberer",
+    "slovak" : "kúzelník"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 4,
+    "czech" : "klaun",
+    "english" : "clown",
+    "german" : "der Clown",
+    "slovak" : "klaun"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 4,
+    "czech" : "žonglér",
+    "english" : "juggler",
+    "german" : "der Jongleur",
+    "slovak" : "žonglér"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 4,
+    "czech" : "provazolezec",
+    "english" : "tightrope walker",
+    "german" : "der Seiltänzer",
+    "slovak" : "povrazolezec"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 4,
+    "czech" : "kadeřnice",
+    "english" : "hairdresser",
+    "german" : "die Friseurin",
+    "slovak" : "kaderníčka"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 4,
+    "czech" : "zubař",
+    "english" : "dentist",
+    "german" : "der Zahnarzt",
+    "slovak" : "zubár"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 4,
+    "czech" : "automechanik",
+    "english" : "car mechanic",
+    "german" : "der Automechaniker",
+    "slovak" : "automechanik"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 4,
+    "czech" : "zedník",
+    "english" : "mason",
+    "german" : "der Maurer",
+    "slovak" : "murár"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 4,
+    "czech" : "melíř pokojů",
+    "english" : "house painter",
+    "german" : "der Maler",
+    "slovak" : "maliab izieb"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 4,
+    "czech" : "kominík",
+    "english" : "chimney sweep",
+    "german" : "der Schornsteinfeger",
+    "slovak" : "kominár"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 4,
+    "czech" : "pošťák",
+    "english" : "postman",
+    "german" : "der Briefträger",
+    "slovak" : "poštár"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 4,
+    "czech" : "popelář",
+    "english" : "garbage collector",
+    "german" : "der Müllmann",
+    "slovak" : "smetiar"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 4,
+    "czech" : "kuchař",
+    "english" : "chef",
+    "german" : "der Koch",
+    "slovak" : "kuchár"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 4,
+    "czech" : "číšník",
+    "english" : "waiter",
+    "german" : "der Kellner",
+    "slovak" : "čašník"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 4,
+    "czech" : "prodavačka",
+    "english" : "shop assistant",
+    "german" : "die Verkäuferin",
+    "slovak" : "predavačka"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 4,
+    "czech" : "pokladna",
+    "english" : "cash register",
+    "german" : "die Kasse",
+    "slovak" : "pokladňa"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 4,
+    "czech" : "nákupní vozík",
+    "english" : "shopping cart",
+    "german" : "der Einkaufswagen",
+    "slovak" : "nákupný vozík"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 4,
+    "czech" : "eskalátor",
+    "english" : "escalator",
+    "german" : "die Rolltreppe",
+    "slovak" : "eskalátor"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 4,
+    "czech" : "výtah",
+    "english" : "elevator",
+    "german" : "der Aufzug",
+    "slovak" : "výťah"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 4,
+    "czech" : "panelák",
+    "english" : "block of flats",
+    "german" : "der Plattenbau",
+    "slovak" : "panelák"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 4,
+    "czech" : "mrakodrap",
+    "english" : "skzscaper",
+    "german" : "der Wolkenkratzer",
+    "slovak" : "mrakodrap"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 4,
+    "czech" : "maják",
+    "english" : "lighthouse",
+    "german" : "der Leuchtturm",
+    "slovak" : "maják"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 4,
+    "czech" : "větrný mlýn",
+    "english" : "windmill",
+    "german" : "die Windmühle",
+    "slovak" : "veterný mlyn"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 4,
+    "czech" : "vodopád",
+    "english" : "waterfall",
+    "german" : "der Wasserfall",
+    "slovak" : "vodopád"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 4,
+    "czech" : "sopka",
+    "english" : "volcano",
+    "german" : "der Vulkan",
+    "slovak" : "sopka"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 4,
+    "czech" : "zemětřesení",
+    "english" : "earthquake",
+    "german" : "das Erdbeben",
+    "slovak" : "zemetrasenie"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 4,
+    "czech" : "duha",
+    "english" : "rainbow",
+    "german" : "der Regenbogen",
+    "slovak" : "dúha"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 4,
+    "czech" : "blesk",
+    "english" : "lightning",
+    "german" : "der Blitz",
+    "slovak" : "blesk"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 4,
+    "czech" : "bouřka",
+    "english" : "thunderstorm",
+    "german" : "das Gewitter",
+    "slovak" : "búrka"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 4,
+    "czech" : "krupobití",
+    "english" : "hailstorm",
+    "german" : "der Hagel",
+    "slovak" : "krupobitie"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 4,
+    "czech" : "snehová vánice",
+    "english" : "blizzard",
+    "german" : "der Schneesturm",
+    "slovak" : "snehová víchrica"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 4,
+    "czech" : "námraza",
+    "english" : "frost",
+    "german" : "das Glatteis",
+    "slovak" : "námraza"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 4,
+    "czech" : "rampouch",
+    "english" : "icicle",
+    "german" : "der Eiszapfen",
+    "slovak" : "cencúľ"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 5,
+    "czech" : "ranní nevolnost",
+    "english" : "morning sickness",
+    "german" : "die Morgenübelkeit",
+    "slovak" : "ranná nevoľnosť"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 5,
+    "czech" : "láska na první pohled",
+    "english" : "love at first sight",
+    "german" : "Liebe auf den ersten Blick",
+    "slovak" : "láska na prvý pohľad"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 5,
+    "czech" : "černé svědomí",
+    "english" : "guilty conscience",
+    "german" : "ein schlechtes Gewissen",
+    "slovak" : "čierne svedomie"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 5,
+    "czech" : "krokodźlí slzy",
+    "english" : "crocodile tears",
+    "german" : "Krokodilstränen",
+    "slovak" : "krokodílie slzy"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 5,
+    "czech" : "těžké pondělí",
+    "english" : "Monday blues",
+    "german" : "ein schwerer Montag",
+    "slovak" : "ťažký pondelok"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 5,
+    "czech" : "svalová horečka",
+    "english" : "muscle soreness",
+    "german" : "der Muskelkater",
+    "slovak" : "svalová horúčka"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 5,
+    "czech" : "jarní únava",
+    "english" : "spring fatigue",
+    "german" : "die Frühjahrsmüdigkeit",
+    "slovak" : "jarná únava"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 5,
+    "czech" : "ponorková nemoc",
+    "english" : "cabin fever",
+    "german" : "der Lagerkoller",
+    "slovak" : "ponorková choroba"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 5,
+    "czech" : "cestovní horečka",
+    "english" : "travel fever",
+    "german" : "das Reisefieber",
+    "slovak" : "cestovná horúčka"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 5,
+    "czech" : "tréma prřed vzstoupením",
+    "english" : "stage fright",
+    "german" : "das Lampenfieber",
+    "slovak" : "tréma pred vzstúpením"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 5,
+    "czech" : "ztráta paměti",
+    "english" : "memory loss",
+    "german" : "der Gedächtnisverlust",
+    "slovak" : "strata pamäti"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 5,
+    "czech" : "náměsíčnost",
+    "english" : "sleepwalking",
+    "german" : "das Schlafwandeln",
+    "slovak" : "námesačnosť"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 5,
+    "czech" : "chrápánií",
+    "english" : "snoring",
+    "german" : "das Schnarchen",
+    "slovak" : "chrápanie"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 5,
+    "czech" : "škztavka",
+    "english" : "hiccups",
+    "german" : "der Schluckauf",
+    "slovak" : "čkanie"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 5,
+    "czech" : "zívání",
+    "english" : "yawning",
+    "german" : "das Gähnen",
+    "slovak" : "zívanie"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 5,
+    "czech" : "husí kůže",
+    "english" : "goosebumps",
+    "german" : "die Gänsehaut",
+    "slovak" : "husia koža"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 5,
+    "czech" : "mravčení v noze",
+    "english" : "pins and needles in the foot",
+    "german" : "Ameisenlaufen im Fuß",
+    "slovak" : "mravčenie v nohe"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 5,
+    "czech" : "zápal plic",
+    "english" : "pneumonia",
+    "german" : "die Lungenentzündung",
+    "slovak" : "zápal pľúc"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 5,
+    "czech" : "alergická reakce",
+    "english" : "allergic reaction",
+    "german" : "die allergische Reaktion",
+    "slovak" : "alergická reakcia"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 5,
+    "czech" : "úžeh",
+    "english" : "sunstroke",
+    "german" : "der Sonnenstich",
+    "slovak" : "úpal"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 5,
+    "czech" : "omrzliny",
+    "english" : "frostbite",
+    "german" : "die Erfrierungen",
+    "slovak" : "omrzliny"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 5,
+    "czech" : "fatamorngána",
+    "english" : "mirage",
+    "german" : "die Fata Morgana",
+    "slovak" : "fatamorgána"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 5,
+    "czech" : "optický klam",
+    "english" : "optical illusion",
+    "german" : "die optische Täuschnung",
+    "slovak" : "optický klam"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 5,
+    "czech" : "časový posun",
+    "english" : "jet lag",
+    "german" : "die Zeitverschiebung",
+    "slovak" : "časový posun"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 5,
+    "czech" : "deja vu",
+    "english" : "deja vu",
+    "german" : "das Deja-vu",
+    "slovak" : "deja vu"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 5,
+    "czech" : "noční můra",
+    "english" : "nightmare",
+    "german" : "der Albtraum",
+    "slovak" : "nočná mora"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 5,
+    "czech" : "denní snení",
+    "english" : "daydreaming",
+    "german" : "das Tagträumen",
+    "slovak" : "denné snívanie"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 5,
+    "czech" : "smysl pro humor",
+    "english" : "sense of humor",
+    "german" : "der Sinn für Humor",
+    "slovak" : "zmysel pre humor"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 5,
+    "czech" : "žárlivost",
+    "english" : "jealousy",
+    "german" : "die Eifersucht",
+    "slovak" : "žiarlivosť"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 5,
+    "czech" : "závist",
+    "english" : "envy",
+    "german" : "der Neid",
+    "slovak" : "závisť"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 5,
+    "czech" : "lakomost",
+    "english" : "greed",
+    "german" : "der Geiz",
+    "slovak" : "lakomosť"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 5,
+    "czech" : "tvrdohlavost",
+    "english" : "stubbornness",
+    "german" : "die Sturheit",
+    "slovak" : "tvrdohlavosť"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 5,
+    "czech" : "netrpělivost",
+    "english" : "impatience",
+    "german" : "die Ungeduld",
+    "slovak" : "netrpezlivosť"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 5,
+    "czech" : "zvědavost",
+    "english" : "curiosity",
+    "german" : "die Neugier",
+    "slovak" : "zvedavosť"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 5,
+    "czech" : "stydlivost",
+    "english" : "shyness",
+    "german" : "die Schüchternheit",
+    "slovak" : "hanblivosť"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 5,
+    "czech" : "sebevědomí",
+    "english" : "self-confidence",
+    "german" : "das Selbstbewusstsein",
+    "slovak" : "sebavedomie"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 5,
+    "czech" : "zklamání",
+    "english" : "disappointment",
+    "german" : "die Enttäuschung",
+    "slovak" : "sklamanie"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 5,
+    "czech" : "úleva",
+    "english" : "relief",
+    "german" : "die Erleichterung",
+    "slovak" : "úľava"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 5,
+    "czech" : "nostalgie",
+    "english" : "nostalgia",
+    "german" : "die Nostalgie",
+    "slovak" : "nostalgia"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 5,
+    "czech" : "panika",
+    "english" : "panic",
+    "german" : "die Panik",
+    "slovak" : "panika"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 5,
+    "czech" : "chaos",
+    "english" : "chaos",
+    "german" : "das Chaos",
+    "slovak" : "chaos"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 5,
+    "czech" : "nuda",
+    "english" : "boredom",
+    "german" : "die Langeweile",
+    "slovak" : "nuda"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 5,
+    "czech" : "samota",
+    "english" : "loneliness",
+    "german" : "die Einsamkeit",
+    "slovak" : "samota"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 5,
+    "czech" : "svoboda",
+    "english" : "freedom",
+    "german" : "die Freiheit",
+    "slovak" : "sloboda"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 5,
+    "czech" : "spravedlnost",
+    "english" : "justice",
+    "german" : "die Gerechtigkeit",
+    "slovak" : "spravodlivosť"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 5,
+    "czech" : "lež",
+    "english" : "lie",
+    "german" : "die Lüge",
+    "slovak" : "klamstvo"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 5,
+    "czech" : "tajemství",
+    "english" : "secret",
+    "german" : "das Geheimnis",
+    "slovak" : "tajomstvo"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 5,
+    "czech" : "drby",
+    "english" : "gossip",
+    "german" : "der Klatsch",
+    "slovak" : "klebety"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 5,
+    "czech" : "pomlouvání",
+    "english" : "slander",
+    "german" : "dier Verleumdung",
+    "slovak" : "ohováranie"
+  },
+  {
+    "aktivity" : [
+      "pantomime",
+      "speech",
+      "drawing"
+    ],
+    "body" : 5,
+    "czech" : "výmluva",
+    "english" : "excuse",
+    "german" : "die Ausrede",
+    "slovak" : "výhovorka"
+  }
+]
